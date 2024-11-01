@@ -34,5 +34,3 @@ The application accepts the following inputs:
   ![image](https://github.com/user-attachments/assets/644f6c24-d623-4f71-bc8c-82e0bf47d3c6)
 
   The working model link: https://credit-risk-model-1.streamlit.app/
-
-https://credit-risk-model-1.streamlit.app/
